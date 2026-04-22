@@ -1,4 +1,4 @@
-# Telegram Integration Quickstarts
+# telegram-integration-quickstarts — Telegram Quickstarts for Flow
 
 This repo contains beginner-friendly courses designed to help you kickstart your journey in building Telegram Web Apps (TWAs) on Flow.
 
@@ -59,3 +59,11 @@ Telegram-Integration-Quickstarts/
     ├── images/
 
 ```
+## About Flow
+
+This repo is part of the [Flow network](https://flow.com), a Layer 1 blockchain built for consumer applications, AI agents, and DeFi at scale.
+
+- Developer docs: https://developers.flow.com
+- Cadence language: https://cadence-lang.org
+- Community: [Flow Discord](https://discord.gg/flow) · [Flow Forum](https://forum.flow.com)
+- Governance: [Flow Improvement Proposals](https://github.com/onflow/flips)
